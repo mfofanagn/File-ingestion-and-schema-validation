@@ -1,7 +1,7 @@
 # File-ingestion-and-schema-validation
 
 Take two  csv/text file . 
-  california_housing_train.csv 
+  california_housing_train.csv and
   used_cars_data.csv
 
 Read the file ( Present approach of reading the file )
